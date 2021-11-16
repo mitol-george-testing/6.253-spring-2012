@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "86373a6c-9603-bcb5-5577-f535e38290c3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Convex Analysis and Optimization",
+  "course_description": "This course will focus on fundamental subjects in convexity, duality, and convex optimization algorithms. The aim is to develop the core analytical and algorithmic issues of continuous optimization, duality, and saddle point theory using a handful of unifying principles that can be easily visualized and readily understood.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.253",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
